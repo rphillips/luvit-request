@@ -1,5 +1,5 @@
 return {
-  name = "request",
+  name = "rphillips/request",
   version = "0.0.3",
   description = "request http/https module",
   repository = {
